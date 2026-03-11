@@ -1,4 +1,3 @@
-# Monday-BUSINESS-INTELLIGENCE-AI2.-agent
 
 
 <h1 align="center">Monday BI Agent</h1>
